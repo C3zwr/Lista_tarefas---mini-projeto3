@@ -1,1 +1,2 @@
-# Lista_tarefas---mini-projeto3
+📝 Lista de Tarefas - Mini-projeto 3
+"Uma aplicação de gerenciamento de tarefas cotidiana com interface minimalista e intuitiva. O usuário pode adicionar novas tarefas digitando no campo de texto (via clique ou pressionando Enter) e removê-las através de um botão de exclusão personalizado. O grande diferencial deste projeto é a persistência de dados: em projetos comuns de iniciantes, as tarefas somem ao atualizar a página. Aqui, utilizei a API localStorage do navegador para salvar a lista em formato JSON, garantindo que os dados permaneçam salvos mesmo se o usuário fechar o navegador ou desligar o computador."
